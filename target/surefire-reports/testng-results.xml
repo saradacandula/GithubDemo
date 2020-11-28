@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="80" started-at="2020-09-25T14:22:02Z" finished-at="2020-09-25T14:22:02Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="80" started-at="2020-09-25T14:22:02Z" finished-at="2020-09-25T14:22:02Z">
+      <class name="qaclickacademy.mavenjava.restAssuredTest">
+        <test-method status="PASS" signature="Postman()[pri:0, instance:qaclickacademy.mavenjava.restAssuredTest@1b68ddbd]" name="Postman" duration-ms="0" started-at="2020-09-25T19:52:02Z" finished-at="2020-09-25T19:52:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Postman -->
+        <test-method status="PASS" signature="restAPI()[pri:0, instance:qaclickacademy.mavenjava.restAssuredTest@1b68ddbd]" name="restAPI" duration-ms="1" started-at="2020-09-25T19:52:02Z" finished-at="2020-09-25T19:52:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restAPI -->
+      </class> <!-- qaclickacademy.mavenjava.restAssuredTest -->
+      <class name="qaclickacademy.mavenjava.appiumTest">
+        <test-method status="PASS" signature="mobileTest()[pri:0, instance:qaclickacademy.mavenjava.appiumTest@33f88ab]" name="mobileTest" duration-ms="22" started-at="2020-09-25T19:52:02Z" finished-at="2020-09-25T19:52:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileTest -->
+        <test-method status="PASS" signature="samsung()[pri:0, instance:qaclickacademy.mavenjava.appiumTest@33f88ab]" name="samsung" duration-ms="0" started-at="2020-09-25T19:52:02Z" finished-at="2020-09-25T19:52:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- samsung -->
+      </class> <!-- qaclickacademy.mavenjava.appiumTest -->
+      <class name="qaclickacademy.mavenjava.mobileTest">
+        <test-method status="PASS" signature="Agile()[pri:0, instance:qaclickacademy.mavenjava.mobileTest@646d64ab]" name="Agile" duration-ms="0" started-at="2020-09-25T19:52:02Z" finished-at="2020-09-25T19:52:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Agile -->
+        <test-method status="PASS" signature="Jira()[pri:0, instance:qaclickacademy.mavenjava.mobileTest@646d64ab]" name="Jira" duration-ms="0" started-at="2020-09-25T19:52:02Z" finished-at="2020-09-25T19:52:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Jira -->
+      </class> <!-- qaclickacademy.mavenjava.mobileTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
